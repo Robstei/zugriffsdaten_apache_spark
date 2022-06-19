@@ -1,6 +1,7 @@
 # How to start the application
 
-- run docker compose up in root 
+- run docker compose up in root
+- put access.log file in /data directory on host machine 
 - monitor with SparkUI via http://localhost:8080/
 
 # Usefull ressources
